@@ -1,4 +1,4 @@
-# precheca
+# pré-checa
 Aplicativo em python para fazer checagens num PC. 
 
 
