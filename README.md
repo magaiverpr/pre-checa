@@ -6,3 +6,10 @@ O objetivo primário é trazer as informações que um técnico de suporte preci
 
 
 O objetivo secundário é usar o máximo possível do chatGPT pra gerar os códigos, com umas pitadas de buscas no Google quando ele dá aquela engasgada.
+
+
+Para instalar os pacotes pips, siga o exemplo:
+
+pip install auto-py-to-exe --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org
+
+Estou usando o auto-py-to-exe para converter para EXE.
